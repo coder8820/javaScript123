@@ -1,2 +1,4 @@
 # javaScript123
-A code repo for JavaScript liarning
+This is one of the Best Javascript repository
+<br>
+<strong>Author - kumailAbbass</strong>
